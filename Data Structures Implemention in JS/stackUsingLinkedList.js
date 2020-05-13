@@ -74,7 +74,7 @@ myStack.pop();
 myStack.isEmpty();
 
 //Stack
-  //Github
-  //Bitbucket
+  //AWS CodeCommit ---> Top (Head)
   //Gitlab
-  //AWS CodeCommit
+  //Bitbucket
+  //Github         ---> Bottom (Tail)
