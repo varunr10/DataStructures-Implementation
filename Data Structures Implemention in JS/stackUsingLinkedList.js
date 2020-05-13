@@ -22,7 +22,7 @@ class Stack {
 
    if(this.length === 0){
      this.top = newNode;
-     this.botton = newNode;
+     this.bottom = newNode;
      
    }
    else{
@@ -63,10 +63,10 @@ class Stack {
 }
 
 const myStack = new Stack();
-myStack.push("HornPub");
-myStack.push("YucksNYucksYucks");
-myStack.push("YucksVideos");
-myStack.push("Naughty Yumerica");
+myStack.push("Github");
+myStack.push("Bitbucket");
+myStack.push("Gitlab");
+myStack.push("AWS CodeCommit");
 myStack.pop();
 myStack.pop();
 myStack.pop();
@@ -74,7 +74,7 @@ myStack.pop();
 myStack.isEmpty();
 
 //Stack
-  //HornPub
-  //YucksNYucksYucks
-  //YucksVideos
-  //Naughty Yumerica
+  //Github
+  //Bitbucket
+  //Gitlab
+  //AWS CodeCommit
